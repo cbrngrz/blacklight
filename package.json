@@ -3,7 +3,7 @@
   "displayName": "Blacklight Theme",
   "description": "Blacklight theme for Visual Studio Code",
   "author": "cbrngrz",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "publisher": "KhaosAudio",
   "engines": {
     "vscode": "^1.26.0"
@@ -11,6 +11,12 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "dark",
+    "black",
+    "contrast"
+  ],
+  "icon": "images/icon.png",
   "contributes": {
     "themes": [
       {
